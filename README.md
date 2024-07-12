@@ -65,17 +65,17 @@ My name is Ishmit Singhania I am 17 years old and I'm a self-taught programmer.I
 
 ## &#x1f4c8; GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshkedia&layout=compact&theme=github_dark&custom_title=My%20Top%20Languages&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshmitSinghania&layout=compact&theme=github_dark&custom_title=My%20Top%20Languages&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveshkedia&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
-<a href="https://github.com/deveshkedia/crwn-clothing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=crwn-clothing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshmitSinghania&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
+<a href="https://github.com/IshmitSinghania/crwn-clothing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmitSinghania&repo=crwn-clothing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/deveshkedia/CT_Decode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=CT_Decode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/IshmitSinghania/CT_Decode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmitSinghania&repo=CT_Decode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/deveshkedia/CreackTheServer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=CreackTheServer&title_color=eeeeee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/IshmitSinghania/CreackTheServer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmitSinghania&repo=CreackTheServer&title_color=eeeeee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
@@ -85,11 +85,11 @@ My name is Ishmit Singhania I am 17 years old and I'm a self-taught programmer.I
 <b><i>PROFILE VIEWS -  </i></b>
 
 
-![](https://profile-counter.glitch.me/deveshkedia/count.svg)
+![](https://profile-counter.glitch.me/IshmitSinghania/count.svg)
 <br />
 <br />
 <b><i>CONTRIBUTIONS - </i> </b>
-  <img src="https://activity-graph.herokuapp.com/graph?username=deveshkedia&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=IshmitSinghania&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
@@ -110,5 +110,5 @@ My name is Ishmit Singhania I am 17 years old and I'm a self-taught programmer.I
 * <a href="mailto:dkediaphone@icloud.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 * <a href="https://instagram.com/kedia.devesh">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 * <a href="https://www.linkedin.com/in/devesh-kedia-330936212/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-* <a href="https://twitter.com/DeveshKedia1">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+* <a href="https://twitter.com/IshmitSinghania1">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 * <a>![Discord](https://img.shields.io/badge/%3CDevesh_kedia4773%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
