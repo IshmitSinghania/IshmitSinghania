@@ -75,7 +75,7 @@ My name is Ishmit Singhania I am 17 years old and I'm a self-taught programmer.I
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmitSinghania&repo=CT_Decode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/IshmitSinghania/M-Power">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmitSinghania&repo=CreackTheServer&title_color=eeeeee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmitSinghania&repo=M-Power&title_color=eeeeee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
