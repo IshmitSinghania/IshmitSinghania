@@ -74,7 +74,7 @@ My name is Ishmit Singhania I am 17 years old and I'm a self-taught programmer.I
 <a href="https://github.com/IshmitSinghania/CT_Decode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmitSinghania&repo=CT_Decode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/IshmitSinghania/CreackTheServer">
+<a href="https://github.com/IshmitSinghania/M-Power">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshmitSinghania&repo=CreackTheServer&title_color=eeeeee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
@@ -87,20 +87,3 @@ My name is Ishmit Singhania I am 17 years old and I'm a self-taught programmer.I
 
 ![](https://profile-counter.glitch.me/IshmitSinghania/count.svg)
 <br />
-<br />
-<b><i>CONTRIBUTIONS - </i> </b>
-  <img src="https://activity-graph.herokuapp.com/graph?username=IshmitSinghania&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
-
-<!-- links to your social media accounts -->
