@@ -104,11 +104,3 @@ My name is Ishmit Singhania I am 17 years old and I'm a self-taught programmer.I
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
-
-## Social Media
-
-* <a href="mailto:dkediaphone@icloud.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-* <a href="https://instagram.com/kedia.devesh">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-* <a href="https://www.linkedin.com/in/devesh-kedia-330936212/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-* <a href="https://twitter.com/IshmitSinghania1">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-* <a>![Discord](https://img.shields.io/badge/%3CDevesh_kedia4773%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
