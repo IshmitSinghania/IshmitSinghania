@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/IshmitSinghania/IshmitSinghania/master/Header.png)
+![Header](https://raw.githubusercontent.com/IshmitSinghania/IshmitSinghania/master/Header.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
